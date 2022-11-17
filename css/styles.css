@@ -38,6 +38,9 @@ hr{
   width: 4%;
   margin: 100px auto;
 }
+p{
+ line-height: 2;
+}
 
 .top-container {
   background-color: #E4F9F5;
@@ -73,7 +76,7 @@ margin:auto;
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+ 
 }
 .code-img{
   width: 25%;
